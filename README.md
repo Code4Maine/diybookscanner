@@ -1,9 +1,8 @@
-Code4Maine diybookscanner project
+ diybookscanner fork
 ==============
 
-A compilation of first hand documentation and materials collected throughout the web.
 
-Core files have been forked from official git repository for diybookscanner.org.
+Core files forked from official git repository for diybookscanner.org.
 
 Contents from official diybookscanner.org git repo
 --------
