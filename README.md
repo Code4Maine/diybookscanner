@@ -1,17 +1,14 @@
-diybookscanner
+Code4Maine diybookscanner project
 ==============
 
-This is the official git repository for diybookscanner.org.
+A compilation of first hand documentation and materials collected throughout the web.
 
-Contents
+Core files have been forked from official git repository for diybookscanner.org.
+
+Contents from official diybookscanner.org git repo
 --------
 * openscad/ : conversion of the 0.9.20 diybookscanner.org design to openscad (work in progress)
 * misc/     : a simple electronic triggering script for use with a foot pedal, and more
 * wiki (branch) : the official diybookscanner.org wiki
 
-TODO
-----
-* port every wooden part from DIY_Book_Scanner.9.2.0.dxf to an independent, 3D layered openscad file
-* recreate a sheet with all wooden parts from .9.2.0
-* model essential other parts (glass, L brackets, felt pads, ...)
-* create an assembled model of .9.2.0
+
